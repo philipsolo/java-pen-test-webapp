@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ef9b428-5475-4f2c-a416-edba129d35db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/LotteryWebApp_war_exploded/WEB-INF/classes/AddUserNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/artifacts/LotteryWebApp_war_exploded/WEB-INF/classes/AddUserNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/LotteryWebApp_war_exploded/WEB-INF/classes/CreateAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/artifacts/LotteryWebApp_war_exploded/WEB-INF/classes/CreateAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/LotteryWebApp/AddUserNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/LotteryWebApp/AddUserNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/AddUserNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/AddUserNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Admin_home.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Admin_home.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jPoJvKPmzY6dwAUMtFtIzaiwhG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/scratches" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\phili\AppData\Roaming\JetBrains\WebStorm2020.2\scratches" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\phili\AppData\Roaming\JetBrains\WebStorm2020.2\scratches" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="FirefoxRemoteDebugType" nameIsGenerated="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ef9b428-5475-4f2c-a416-edba129d35db" name="Default Changelist" comment="" />
+      <created>1603715019305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603715019305</updated>
+      <workItem from="1603715020354" duration="41000" />
+      <workItem from="1603715265584" duration="81000" />
+      <workItem from="1603716591985" duration="145000" />
+      <workItem from="1606315955200" duration="74000" />
+      <workItem from="1606514111254" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606316019824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1603715319058" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/970.-1080.1920.1040/-950.-1080.1920.1040@0.0.1536.824" timestamp="1606316019824" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1606316027505">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1603715345201" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/970.-1080.1920.1040/-950.-1080.1920.1040@0.0.1536.824" timestamp="1606316027505" />
+  </component>
+</project>
